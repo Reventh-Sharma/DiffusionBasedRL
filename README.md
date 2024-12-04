@@ -8,7 +8,7 @@ Reinforcement Learning has been the go-to learning paradigm for trajectory plann
 2. Lack of open-source and easy-to-use library for training diffusion models for planning, and,
 3. Lack of application in complex planning situations.
 
-We propose DiTP: A transfomer-based path-planning algorithm using diffusion. DiTP has shown notable increase in performance as compared to traditional model-free RL algorithm (IQL) and Diffuser (UNet+Diffusion) in complex maze2D environment.
+We propose DiTP: A transfomer-based path-planning algorithm using diffusion. DiTP has SOTA performance increase as compared to traditional model-free RL algorithm (IQL) and Diffuser (UNet+Diffusion) in complex maze2D environment. Our final report is available [here](Diffusion_based_path_planning.pdf).
 
 ## Setup
 ## Instructions
